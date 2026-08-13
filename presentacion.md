@@ -1,6 +1,9 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hey! Mi nombre es Angel Reyes
 
-En mi tiempo libre me gusta...
+---
+No se me ocurre que escribir acá, dejo un gato, por las dudas.
 
-Mi instrucción favorita del manual de intel es...
+**_3 INSTRUCCIONES DEL MANUAL DE INTEL DESPUES_**
+
+<img src="img/cat.jpeg" width="20%"/>
